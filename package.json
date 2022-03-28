@@ -1,0 +1,33 @@
+{
+  "name": "nebula-san-clan",
+  "version": "1.0.0",
+  "description": "This a Clan bot of Nebula-san Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sky#3399",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "cli": "^1.0.1",
+    "discord-api-types": "^0.30.0",
+    "discord-gamecord": "^2.0.0",
+    "discord-hangman": "^1.2.2",
+    "discord-music-player": "^8.3.1",
+    "discord-rps": "^2.0.1",
+    "discord.js": "^13.6.0",
+    "got": "^12.0.3",
+    "random-facts": "^1.0.6",
+    "simply-djs": "^2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "Clan",
+    "bot",
+    "Nebula-san"
+  ]
+}
